@@ -1,1 +1,2 @@
 This is a example file content to check GIT Binaries
+Adding new content to check remote to local pull 
